@@ -7,7 +7,6 @@ Use o FORK para adicionar esse projeto a sua organização antes de começar.
 ![](https://img.shields.io/github/stars/Leoruiz197/Arduino_AC1)
 
 ![](https://raw.githubusercontent.com/Lunatic-Wolves-3EMRA/Arduino_AC1/main/TINKERCAD.jpg)
-)
 
 ## **O PROBLEMA:** 
 
