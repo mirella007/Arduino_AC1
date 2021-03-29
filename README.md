@@ -1,5 +1,5 @@
 # AC1_Arduino
-## LUNATIC WOLVES_AC1
+## LUNATIC WOLVES
 
 Use o FORK para adicionar esse projeto a sua organização antes de começar.
 
