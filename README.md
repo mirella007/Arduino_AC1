@@ -1,5 +1,5 @@
-# LUNATIC WOLVES_AC1
-## Nossa primeira AC, observe bem o código, procure pelos erros.
+# AC1_Arduino
+## LUNATIC WOLVES_AC1
 
 Use o FORK para adicionar esse projeto a sua organização antes de começar.
 
