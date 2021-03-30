@@ -1,42 +1,17 @@
 # AC1_Arduino
+
 ## LUNATIC WOLVES
 
-Use o FORK para adicionar esse projeto a sua organização antes de começar.
+### **O PROBLEMA:** 
 
-![](https://img.shields.io/github/forks/Leoruiz197/Arduino_AC1)
-![](https://img.shields.io/github/stars/Leoruiz197/Arduino_AC1)
+Nosso grupo foi contratado para realizar a automação do chão de fábrica de uma farmacêutica responsável por produzir doses de vacina. Nossa equipe irá solucionar esse problema o mais rápido possível para que tenha vacinas para todos. Para saber quem somos, leia a desrcição a baixo.
 
-![](https://raw.githubusercontent.com/Lunatic-Wolves-3EMRA/Arduino_AC1/main/TINKERCAD.jpg)
+### INTEGRANTES DO GRUPO:
 
-## **O PROBLEMA:** 
+Bruna Ramos Anjula: Olá! Meu nome é Bruna e eu sou do 3EMRA. Tenho 16 anos, sou um pouco tímida com quem não conheço, mas depois eu acabo me soltanto. Gosto muito de músicas, esportes e ver filme. Adoro fazer amizades! Eu ajudei a concertar o código e fiz a documentação.
 
-Seu grupo foi contratado para realizar a automação do chão de fábrica de uma farmacêutica responsável por produzir doses de vacina, a automação levará em conta alguns sensores e avisos luminosos para os funcionários responsáveis pela produção.
+Helena de Pasquali Roberto: Oiê pessoal, meu nome é Helena, sou estudante do 3EMRA, amo artes, mas o que eu mais admiro é o canto e a dança. Fiquei responsável em fazer o Tinkercard e ajudei a concertar o código.
 
-Após realizar a montagem, vamos conferir a lista de funcionalidades e adicionar cada ponto necessário para completar o desafio.
+Marina Luísa Morais Braga: Hey! Meu nome é Marina e eu adoro ler! Poderia passar horas e horas lendo. Eu também gosto de tirar fotos e assistir documentários sobre qualquer assunto! Me responsabilizei em fazer as bios e ajudei no código.
 
-### Funcionalidades esperadas:
-
-- Um botão para ligar e outro para desligar a produção indicados pelo led vermelho.
-- Leitura do sensor de temperatura e teste, ao atingir **15℃** o led azul deve acender, deve ser informado via serial e somente apagar o led quando a temperatura for mais baixa que isso.
-- Leitura do sensor de luminosidade e teste, ao indicar um valor acima de **5** a luminosidade do ambiente esta muito alta, deve ser informado via serial e o led verde deve permanecer aceso até a luminosidade diminuir.
-
-### Composição da nota do grupo
-- Ajuste dos erros no código principal.
-- Documentação do projeto do github no README.md abordando todos os pontos necessários.
-- No README.md adicionando nome do grupo fotos e short bio de cada integrante.
-- Todos os pontos do código devem estar comentados corretamente informando o que se passa ali.
-- Usar do Serial o max possível, sempre informando os estados da produção e demais itens.
-- Implementação das funcionalidades faltantes.
-
-### Desconto de nota individual
-
-**Caso um dos integrantes venha a ter um desempenho inconsistente na colaboração com o projeto em comparação com os demais da equipe o mesmo pode ter sua nota parcial ou total descontada.**
-
-#### LINKS UTEIS:
-
-- **Funções:** https://www.arduino.cc/reference/pt/
-- **map():** https://www.arduino.cc/reference/pt/language/functions/math/map/
-- **millis():** https://www.arduino.cc/reference/pt/language/functions/time/millis/
-
-- **Editor de README.md:** https://pandao.github.io/editor.md/en.html
-- **Shield.io:** https://shields.io/
+Mirella Silvestre Pagliuca e Pagliuca: Meu nome é Mirella eu sou do 3EMRA, para muitos pareço tímida, mas com meus amigos sou extrovertida demais e amo fazer palhaçadas, o que eu mais gosto de fazer é dançar, estou sempre dançando! Faço vários desenhos de roupas que pretendo lançar um dia, e também gosto de esportes e música pop! Ajudei no código e em encontrar falhas nas funcionalidades.
