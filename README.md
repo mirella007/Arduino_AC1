@@ -2,6 +2,8 @@
 
 ## LUNATIC WOLVES
 
+![](https://raw.githubusercontent.com/Lunatic-Wolves-3EMRA/Arduino_AC1/main/TINKERCAD.jpg)
+
 ### **O PROBLEMA:** 
 
 Nosso grupo foi contratado para realizar a automação do chão de fábrica de uma farmacêutica responsável por produzir doses de vacina. Nossa equipe irá solucionar esse problema o mais rápido possível para que tenha vacinas para todos. Para saber quem somos, leia a desrcição a baixo.
