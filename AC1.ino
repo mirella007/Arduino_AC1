@@ -22,3 +22,24 @@ void setup()
   pinMode(verde, OUTPUT);
   pinMode(azul, OUTPUT);
   
+  Serial.begin(9600);
+  Serial.println("AC1- Meu primeiro projeto 2021);
+  Serial.println("              V1.0");
+  Serial.println("GRUPO: LUNATIC WOLVES); 
+  }
+  //executa os comandos
+  void loop()
+  {
+   if))millis() - lastDebounceTime1)> botaoDelay && digitalReed(botao1))      
+  {
+  Serial.println("botao 1 apertado");
+  ledVermelho();
+ lastDebounceTime1 = millis();
+  }
+  
+    
+    
+   }
+   
+ 
+  
